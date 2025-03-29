@@ -54,10 +54,7 @@ Start by forking this repository to your own GitHub account. Click the button be
   <a href="https://github.com/bugfixed/BUGFIXED-SULEXH/fork"><img title="BUGFIXED-SULEXH" src="https://img.shields.io/badge/FORK-BUG%20FIXED%20SULEXH-h?color=purple&style=for-the-badge&logo=github"></a>
 
 ### 2. GET SESSION ID SERVER 1
-
-You will need a session ID to run BUGFIXED-SULEXH. Click the button below to obtain your session ID:
-
-<a href='https://bugfixedshub-7kak.vercel.app' target="_blank">
+<a href='https://caseyrhodeshub-7kak.vercel.app' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 <br>
@@ -65,9 +62,8 @@ You will need a session ID to run BUGFIXED-SULEXH. Click the button below to obt
 
 ### 2. GET SESSION ID SERVER 2
 
-<a href='https://bugfixedshub-7kak.vercel.app' target="_blank">
-  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
-</a>
+<a href='https://caseyrhodeshub-7kak.vercel.app' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>/a>
 <br>
 
 ---
