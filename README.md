@@ -18,21 +18,21 @@
 
 
 <p align="center">
-  <a href="https://github.com/caseyweb">
-    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=BUG+FIXED+SULEXH;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="caseywebReadme">
+  <a href="https://github.com/bugfixed">
+    <img src="http://readme-typing-svg.herokuapp.com?color=6A0DAD&center=true&vCenter=true&multiline=false&lines=BUG+FIXED+SULEXH;Powering+Your+WhatsApp+Experience;Star+and+Fork+This+Repo+🌟" alt="bugfixedbReadme">
   </a>
 </p>
 
 
 <p align="center">
-<a href="https://github.com/caseyweb"><img title="Author" src="https://files.catbox.moe/9l3w1g.jpg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/bugfixed"><img title="Author" src="https://files.catbox.moe/9l3w1g.jpg?style=for-the-badge&logo=github"></a>
 
 
 
 ***
 
 <p align="center">
-  <a href="https://github.com/caseyweb"><img title="Developer" src="https://img.shields.io/badge/Author-casey%20web-purple.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/bugfixed"><img title="Developer" src="https://img.shields.io/badge/Author-bug%20fix-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 
 <div align="center">
@@ -42,7 +42,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/caseyweb/BUGFIXED-SULEXH"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/bugfixed/BUGFIXED-SULEXH"><img title="Release" src="https://img.shields.io/badge/Release-v2.0-green.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 ---
@@ -51,13 +51,13 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/caseyweb/CASEYRHODES-XMD/fork"><img title="BUGFIXED-SULEXH" src="https://img.shields.io/badge/FORK-BUG%20FIXED%20SULEXH-h?color=purple&style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/bugfixed/BUGFIXED-SULEXH/fork"><img title="BUGFIXED-SULEXH" src="https://img.shields.io/badge/FORK-BUG%20FIXED%20SULEXH-h?color=purple&style=for-the-badge&logo=github"></a>
 
 ### 2. GET SESSION ID SERVER 1
 
 You will need a session ID to run BUGFIXED-SULEXH. Click the button below to obtain your session ID:
 
-<a href='https://caseyrhodeshub-7kak.vercel.app' target="_blank">
+<a href='https://bugfixedshub-7kak.vercel.app' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 <br>
@@ -65,7 +65,7 @@ You will need a session ID to run BUGFIXED-SULEXH. Click the button below to obt
 
 ### 2. GET SESSION ID SERVER 2
 
-<a href='https://caseyrhodeshub-7kak.vercel.app' target="_blank">
+<a href='https://bugfixedshub-7kak.vercel.app' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Session%20ID-purple?style=for-the-badge&logo=whatsapp&logoColor=white'/>
 </a>
 <br>
@@ -78,12 +78,12 @@ You will need a session ID to run BUGFIXED-SULEXH. Click the button below to obt
 
 <h4 align="left">1. 𝐇𝐄𝐑𝐎𝐊𝐔</h4>
 <p align="left">
-<a href='https://dashboard.heroku.com/new?template=https://github.com/caseyweb/CASEYRHODES-XMD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/bugfixed/BUGFIXED-SULEXH' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Heroku%20Deploy-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 </p>
 
 <h4 align="left">2. 𝐊𝐎𝐘𝐄𝐁</h4>
 <p align="left">
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=caseyweb/CASEYRHODES-XMD&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=bugfixed/BUGFIXED-SULEXH&ports=3000' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20Deploy-green?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 </p>
 
 <h4 align="left">3. 𝐑𝐀𝐈𝐋𝐖𝐀𝐘𝐒</h4>
@@ -108,7 +108,7 @@ You will need a session ID to run BUGFIXED-SULEXH. Click the button below to obt
 
 ---
 
-## 🔗 CASEYRHODES XMD Info
+## 🔗 BUGFIXED SULEXH Info
 
   <p align="center">
 <a href="https://github.com/SilvaTechB/followers"><img title="Followers" src="https://img.shields.io/github/followers/SilvaTechB?color=blue&style=flat-square"></a>
@@ -139,21 +139,21 @@ You will need a session ID to run BUGFIXED-SULEXH. Click the button below to obt
 
 
 <p align="center">
-    <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH">
+    <a href="https://chat.whatsapp.com/FCINezJfCQW0qtEi56DwkY">
         <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
 </p>
 
-## CASEYRHODES SUPPORT 
+## BUGFIXED SUPPORT 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=CASEYRHODES XMD +MAKE; STAR ⭐+AND+FORKS+BY+CASEYRHODES XMD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=BUGFIXED SULEXH +MAKE; STAR ⭐+AND+FORKS+BY+BUGFIXED SULEXH" alt="Typing SVG" /></a>
 
 
 
 ## 𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑩𝒀 𝑭𝑶𝑳𝑳𝑶𝑾𝑰𝑵𝑮 𝐎𝐔𝐑 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑪𝑯𝑨𝑵𝑵𝑬𝑳
 
 
- <a href="https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
+ <a href="https://https://whatsapp.com/channel/0029VbAD3222f3EIZyXe6w16"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
  
 
  <br>
