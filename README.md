@@ -149,7 +149,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 ## 𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑩𝒀 𝑭𝑶𝑳𝑳𝑶𝑾𝑰𝑵𝑮 𝐎𝐔𝐑 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑪𝑯𝑨𝑵𝑵𝑬𝑳
 
 
- <a href="https://https://whatsapp.com/channel/0029VbAD3222f3EIZyXe6w16"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
+ <a href="https://whatsapp.com/channel/0029VbAD3222f3EIZyXe6w16"><img title="OUR-WHATSAPP CHANNEL" src="https://img.shields.io/badge/OUR-WHATSAPP CHANNEL-h?color=green&style=for-the-badge&logo=whatsapp" width="280" height="38.45"/></a></p>
  
 
  <br>
