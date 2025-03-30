@@ -51,7 +51,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/bugfixed/BUGFIXED-SULEXH/fork"><img title="BUGFIXED-SULEXH" src="https://img.shields.io/badge/FORK-BUG%20FIXED%20SULEXH-h?color=purple&style=for-the-badge&logo=github"></a>
+  <a href="BUGFIXED-SULEXH/fork"><img title="BUGFIXED-SULEXH" src="https://img.shields.io/badge/FORK-CASEY%20RHODES%20XMD-h?color=purple&style=for-the-badge&logo=github"></a>
 
 ### 2. GET SESSION ID SERVER 1
 <a href='https://caseyrhodeshub-7kak.vercel.app' target="_blank">
