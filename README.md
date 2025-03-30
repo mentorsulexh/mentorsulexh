@@ -42,7 +42,7 @@
 
 
 <p align="center">
-  <a href="href="https://github.com/caseyweb/BUGFIXED-SULEXH/fork"><img title="BUGFIXED-SULEXH" src="https://img.shields.io/badge/FORK-BUG%20FIXED%20SULEXH-h?color=purple&style=for-the-badge&logo=github"></a>
+  <a href="href="https://github.com/mentorsulexh/BUGFIXED-SULEXH/fork"><img title="BUGFIXED-SULEXH" src="https://img.shields.io/badge/FORK-BUG%20FIXED%20SULEXH-h?color=purple&style=for-the-badge&logo=github"></a>
 </p>
 
 ---
